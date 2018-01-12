@@ -2,10 +2,24 @@
 
 ## Installation
 
-```
-$ npm i 
+### Run the API server
 
-$ npm run start
+```
+$ cd api-server
+
+$ yarn install
+
+$ node server.js
+```
+
+### Run the web server
+
+```
+$ cd web-app
+
+$ yarn install
+
+$ yarn start
 ```
 
 ## Comments
