@@ -1,0 +1,18 @@
+
+.content-list__item {
+    width: 100%;
+    margin-bottom: 40px;
+    box-sizing: border-box;
+}
+
+@media (min-width: 768px) {
+    .content-list__item {
+        width: 24%;
+        box-sizing: border-box;
+    }
+}
+
+.content-list__item .inner {
+    padding: 20px;
+    background-color: #efefef;
+}
